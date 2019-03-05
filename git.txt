@@ -1,2 +1,4 @@
 Git test
 Git test99
+Git test88
+>>>>>>> remotes/github/feature/add_git_commands
